@@ -8,6 +8,9 @@ class Main{
             System.out.println("hello world");
             //modifica 
             System.out.println("HI");
+            System.out.println("CIAO");
+            System.out.println("testgb");
+
 
     }
 
